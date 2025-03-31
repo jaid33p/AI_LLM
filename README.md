@@ -1,4 +1,4 @@
-# Agent Team
+# Agent Assistants
 
 ## Overview
 This project sets up a team of AI agents to perform various tasks such as retrieving web data, fetching financial information, processing structured data, and providing weather updates. The agents utilize the `phi` framework and models from `Groq` to handle different types of queries effectively.
