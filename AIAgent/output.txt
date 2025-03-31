@@ -59,8 +59,4 @@
 ┃                                               meet its production targets.   ┃
 ┃                                                                              ┃
 ┃                                                                              ┃
-┃ Please note that these are just sample news headlines and may not reflect    ┃
-┃ the current situation. For the most up-to-date information, please try       ┃
-┃ searching again after some time.                                             ┃
-┃                                                                              ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
