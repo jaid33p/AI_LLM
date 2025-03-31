@@ -62,7 +62,5 @@ The response is saved in `output.txt` for further analysis.
 - Implement dynamic agent selection based on query type.
 - Build a frontend using TypeScript to create a webpage for interacting with the AI agents and displaying responses dynamically.
 
-## License
 
-This project is licensed under the MIT License.
 
